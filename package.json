@@ -6,6 +6,7 @@
         "dev": "vite"
     },
     "devDependencies": {
+        "@vitejs/plugin-react": "^4.3.4",
         "autoprefixer": "^10.4.20",
         "axios": "^1.7.4",
         "concurrently": "^9.0.1",
@@ -15,7 +16,6 @@
         "vite": "^6.0.11"
     },
     "dependencies": {
-        "@vitejs/plugin-react": "^4.3.4",
         "gsap": "^3.12.7",
         "ogl": "^1.0.11",
         "react": "^19.0.0",
