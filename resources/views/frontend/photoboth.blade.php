@@ -141,7 +141,7 @@
         <a href="{{route('homepage')}}" class="nav-item1"><i class="fas fa-comments"></i></a>
     </nav>
     <h1>MyPhotobooth</h1>
-    <p>Abadikan moment mu bersama kami. Posting foto terbaik kamu di instagram</p>
+    <p>Abadikan moment mu bersama kami. Posting foto terbaik kamu di instagram :)</p>
     <div class="photobooth-container">
         <div  class="camera-container">
             <video id="camera" autoplay></video>
